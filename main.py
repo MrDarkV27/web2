@@ -33,7 +33,6 @@ while True:
     make_requesttt()
     make_requestttt()
     make_requesttttt()
-    make_requestttttt()
     make_requesttttttt()
     make_requestx()
     make_requestp()
